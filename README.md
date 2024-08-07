@@ -1,7 +1,7 @@
 ![Crafting Innovative Web Solutions | Enthusiastic Competitive Programmer | Lifelong Learner](https://media.licdn.com/dms/image/D5616AQFQfogkPRatzA/profile-displaybackgroundimage-shrink_350_1400/0/1720119340981?e=1728518400&v=beta&t=OZ9nZ19XIf5e_ds9DJIdfWyG1slgNeF2l6laUsR7fiw)
 ### Hi there 👋, Jakaria Chowdhury Tajwone - Passionate Developer & Problem Solver 
 #### Crafting Innovative Web Solutions | Enthusiastic Competitive Programmer | Lifelong Learner
-![Crafting Innovative Web Solutions | Enthusiastic Competitive Programmer | Lifelong Learner]
+
 
 👋 Hi there! I'm Tajwone, a Computer Science and Engineering (CSE) student at North East University, Bangladesh. I’m an enthusiastic front-end web developer and a dedicated competitive programmer with a keen interest in data structures and algorithms (DSA).
 I’m always excited to collaborate on new projects and engage in challenging programming problems. Thanks for visiting my GitHub profile!
