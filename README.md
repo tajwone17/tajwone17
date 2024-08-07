@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/image/D5616AQFQfogkPRatzA/profile-displaybackgroundimage-shrink_350_1400/0/1720119340981?e=1728518400&v=beta&t=OZ9nZ19XIf5e_ds9DJIdfWyG1slgNeF2l6laUsR7fiw
+![Crafting Innovative Web Solutions | Enthusiastic Competitive Programmer | Lifelong Learner](https://media.licdn.com/dms/image/D5616AQFQfogkPRatzA/profile-displaybackgroundimage-shrink_350_1400/0/1720119340981?e=1728518400&v=beta&t=OZ9nZ19XIf5e_ds9DJIdfWyG1slgNeF2l6laUsR7fiw)
 ### Hi there 👋, Jakaria Chowdhury Tajwone - Passionate Developer & Problem Solver 
 #### Crafting Innovative Web Solutions | Enthusiastic Competitive Programmer | Lifelong Learner
 ![Crafting Innovative Web Solutions | Enthusiastic Competitive Programmer | Lifelong Learner]
