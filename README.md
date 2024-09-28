@@ -19,3 +19,4 @@ Skills:  REACT / JS / HTML / CSS/Tailwand/ Java/C++/C/DSA
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tajwone17&show_icons=true)  
 
+![](https://komarev.com/ghpvc/?username=tajwone17)
