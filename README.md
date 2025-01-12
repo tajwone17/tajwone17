@@ -8,7 +8,7 @@
 👋 Hi there! I'm Tajwone, a Computer Science and Engineering (CSE) student at North East University, Bangladesh. I’m an enthusiastic front-end web developer and a dedicated competitive programmer with a keen interest in data structures and algorithms (DSA).
 I’m always excited to collaborate on new projects and engage in challenging programming problems. Thanks for visiting my GitHub profile!
 
-Skills:  REACT / JS / HTML / CSS/Tailwand/ Java/C++/C/DSA
+Skills:  REACT / JS / HTML / CSS/Tailwand/ Java/C++/C/DSA/MySQL
 
 - 🔭 I’m currently working on Building dynamic and responsive web applications with a focus on front-end technologies. I’m also tackling competitive programming challenges to sharpen my problem-solving skills. 
 - 🌱 I’m currently learning  Deepening my understanding of data structures and algorithms to excel in competitive programming and enhance my coding efficiency. Exploring advanced front-end frameworks and tools, such as React.js . 
