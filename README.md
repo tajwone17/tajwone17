@@ -1,23 +1,70 @@
-![WhatsApp Image 2024-07-05 at 12 08 30 AM](https://github.com/user-attachments/assets/a767ae95-d30e-4ad8-9b1e-e3fde00e0c4d)
-[Crafting Innovative Web Solutions | Enthusiastic Competitive Programmer | Lifelong Learner]
+![WhatsApp Image 2024-07-05 at 12 08 30 AM](https://github.com/user-attachments/assets/a767ae95-d30e-4ad8-9b1e-e3fde00e0c4d)  
+[Crafting Innovative Web Solutions | MERN Stack Developer | Lifelong Learner]  
 
-### Hi there 👋, Jakaria Chowdhury Tajwone - Passionate Developer & Problem Solver 
-#### Crafting Innovative Web Solutions | Enthusiastic Competitive Programmer | Lifelong Learner
+# Hi there 👋, Jakaria Chowdhury Tajwone - Passionate Developer & Problem Solver  
+### Crafting Innovative Web Solutions | MERN Stack Developer | Lifelong Learner  
 
+👋 Hi there! I'm **Tajwone**, a Computer Science and Engineering (CSE) student at **North East University, Bangladesh**.  
+I’m an enthusiastic **MERN stack developer** and a dedicated competitive programmer with a keen interest in **data structures and algorithms (DSA)**.  
+I’m always excited to collaborate on new projects and engage in challenging programming problems. Thanks for visiting my GitHub profile!  
 
-👋 Hi there! I'm Tajwone, a Computer Science and Engineering (CSE) student at North East University, Bangladesh. I’m an enthusiastic front-end web developer and a dedicated competitive programmer with a keen interest in data structures and algorithms (DSA).
-I’m always excited to collaborate on new projects and engage in challenging programming problems. Thanks for visiting my GitHub profile!
+---
 
-Skills:  REACT / JS / HTML / CSS/Tailwand/ Java/C++/C/DSA/MySQL/ExpressJS/NodeJS
+## 🛠 Skills  
+**Languages & Frameworks:**  
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, TailwindCSS  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MySQL, MongoDB  
+- **Programming Languages:** Java, C++, C  
 
-- 🔭 I’m currently working on Building dynamic and responsive web applications with a focus on front-end technologies. I’m also tackling competitive programming challenges to sharpen my problem-solving skills. 
-- 🌱 I’m currently learning  Deepening my understanding of data structures and algorithms to excel in competitive programming and enhance my coding efficiency. Exploring advanced front-end frameworks and tools, such as React.js . 
-- 💬 Ask me about  Front-end development, JavaScript, HTML/CSS, competitive programming strategies, or data structures and algorithms. 
-- 📫 How to reach me:  Feel free to email me at tajwone248tc@gmail.com 
-- ⚡ Fun fact:  I love participating in coding contests and solving complex algorithmic problems. In my free time, I also enjoy exploring new tech trends and working on personal projects. 
+**Additional Expertise:**  
+- Data Structures & Algorithms (DSA)  
+- Competitive Programming on Codeforces, LeetCode, and CodeChef  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tajwone17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tajwone.chowdhury?mibextid=LQQJ4d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tajwone_chowdhury17?igsh=MWlrZWdoY3NxcnR1Mg%3D%3D&utm_source=qr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jakaria-chowdhury-tajwone-9a1b08293?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByxKxY1%2B%2FSFuUAaCuVXg8Gg%3D%3D) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/tajwone17) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/tajwone17/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/tajwone_17)    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tajwone17&show_icons=true)  
+## 🌱 What I’m Currently Learning  
+- Building scalable full-stack applications using the MERN stack  
+- Advanced database design and optimization with MySQL and MongoDB  
+- Deepening my understanding of DSA to excel in competitive programming  
 
+---
+
+## 🔭 What I’m Currently Working On  
+- Creating dynamic and responsive web applications using React.js and Node.js  
+- Integrating APIs and implementing robust database solutions  
+- Tackling algorithmic challenges on competitive programming platforms  
+
+---
+
+## 💬 Ask Me About  
+- MERN stack development  
+- Front-end design principles  
+- Competitive programming strategies  
+- Optimizing database queries  
+
+---
+
+## 📫 How to Reach Me  
+- 📧 **Email:** tajwone248tc@gmail.com  
+
+---
+
+## ⚡ Fun Fact  
+I enjoy building projects from scratch and exploring emerging web technologies. In my free time, I love solving algorithmic puzzles and participating in online coding contests.  
+
+---
+
+## 🌐 Connect with Me  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tajwone17)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jakaria-chowdhury-tajwone-9a1b08293)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/tajwone17)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/tajwone17/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/tajwone_17)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tajwone.chowdhury?mibextid=LQQJ4d)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tajwone_chowdhury17)  
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tajwone17&show_icons=true&theme=radical)  
 ![](https://komarev.com/ghpvc/?username=tajwone17)
