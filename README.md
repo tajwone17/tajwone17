@@ -1,6 +1,6 @@
 <!-- Replace the image URL with your actual hosted image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/assets/WhatsApp Image 2024-07-05 at 12.08.30 AM.jpeg" alt="Jakaria Chowdhury Tajwone Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/tajwone17/assets/WhatsApp Image 2024-07-05 at 12.08.30 AM.jpeg" alt="Jakaria Chowdhury Tajwone Banner" width="100%">
 </p>
 
 <h1 align="center"> 
