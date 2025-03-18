@@ -1,69 +1,95 @@
-![WhatsApp Image 2024-07-05 at 12 08 30 AM](https://github.com/user-attachments/assets/a767ae95-d30e-4ad8-9b1e-e3fde00e0c4d)
-[Crafting Innovative Web Solutions | MERN Stack Developer | Lifelong Learner]  
-
-# Hi there 👋, Jakaria Chowdhury Tajwone - Passionate Developer & Problem Solver  
-### Crafting Innovative Web Solutions | MERN Stack Developer | Lifelong Learner  
-
-👋 Hi there! I'm **Tajwone**, a Computer Science and Engineering (CSE) student at **North East University, Bangladesh**.  
-I’m an enthusiastic **MERN stack developer** and a dedicated competitive programmer with a keen interest in **data structures and algorithms (DSA)**.  
-I’m always excited to collaborate on new projects and engage in challenging programming problems. Thanks for visiting my GitHub profile!  
-
----
-
-## 🛠 Skills  
-**Languages & Frameworks:**  
-- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, TailwindCSS  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MySQL, MongoDB  
-- **Programming Languages:** Java, C++, C  
-
-**Additional Expertise:**  
-- Data Structures & Algorithms (DSA)  
-- Competitive Programming on Codeforces, LeetCode, and CodeChef  
-
----
-
-## 🌱 What I’m Currently Learning  
-- Building scalable full-stack applications using the MERN stack  
-- Advanced database design and optimization with MySQL and MongoDB  
-- Deepening my understanding of DSA to excel in competitive programming  
-
----
-
-## 🔭 What I’m Currently Working On  
-- Creating dynamic and responsive web applications using React.js and Node.js  
-- Integrating APIs and implementing robust database solutions  
-- Tackling algorithmic challenges on competitive programming platforms  
-
----
-
-## 💬 Ask Me About  
-- MERN stack development  
-- Front-end design principles  
-- Competitive programming strategies  
-- Optimizing database queries  
-
----
-
-## 📫 How to Reach Me  
-- 📧 **Email:** tajwone248tc@gmail.com  
-
----
-
-## ⚡ Fun Fact  
-I enjoy building projects from scratch and exploring emerging web technologies. In my free time, I love solving algorithmic puzzles and participating in online coding contests.  
-
----
-
-## 🌐 Connect with Me  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tajwone17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jakaria-chowdhury-tajwone-9a1b08293)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/tajwone17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/tajwone17/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/tajwone_17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tajwone.chowdhury?mibextid=LQQJ4d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tajwone_chowdhury17)  
-
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=tajwone17&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tajwone17&show_icons=true&theme=radical)  
-![](https://komarev.com/ghpvc/?username=tajwone17)
-
+<!-- Replace the image URL with your actual hosted image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/assets/banner.png" alt="Jakaria Chowdhury Tajwone Banner" width="100%">
 </p>
 
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jakaria+Chowdhury+Tajwone;MERN+Stack+Developer;Competitive+Programmer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG">
+  </a>
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tajwone17&style=flat-square&color=blue" alt="Profile Views">
+  <a href="https://github.com/tajwone17?tab=followers">
+    <img src="https://img.shields.io/github/followers/tajwone17?style=social" alt="GitHub Followers">
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+- 📚 Computer Science Student @ North East University, Bangladesh
+- 💻 Passionate MERN Stack Developer
+- 🏆 Competitive Programmer (Codeforces Specialist)
+- 🔭 Currently building **Scalable Web Applications**
+- 🌱 Learning **Advanced DSA & System Design**
+- 👨💻 All projects available at [My Portfolio](https://github.com/tajwone17)
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend Development**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+**Backend Development**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+**Competitive Programming**  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+
+---
+
+### 📊 Coding Stats
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tajwone17&theme=midnight-purple&border_radius=5)](https://git.io/streak-stats)
+  
+  [![Tajwone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajwone17&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/tajwone17)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tajwone17&layout=compact&theme=vision-friendly-dark)](https://github.com/tajwone17)
+
+</div>
+
+---
+
+### 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tajwone17&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 💻 Coding Activity
+
+![Tajwone's Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=tajwone17&theme=react-dark&hide_border=true&area=true&custom_title=Monthly+Development+Activity)
+
+---
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakaria-chowdhury-tajwone-9a1b08293)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/tajwone17/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/tajwone17)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:tajwone248tc@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/tajwone.chowdhury)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/snake.svg" alt="Snake Game">
+</p>
+
+<p align="center"> 
+  <i>"First, solve the problem. Then, write the code." - John Johnson</i> 💡
+</p>
