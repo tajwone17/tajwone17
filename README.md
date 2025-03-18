@@ -1,14 +1,16 @@
 <!-- Banner Section -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/assets/WhatsApp%20Image%202024-07-05%20at%2012.08.30%20AM.jpeg" alt="Coding Banner" width="100%">
-  <br>
-</p>
 
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jakaria+Chowdhury+Tajwone;MERN+Stack+Developer;Competitive+Programmer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG">
   </a>
 </h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/assets/WhatsApp%20Image%202024-07-05%20at%2012.08.30%20AM.jpeg" alt="Coding Banner" width="100%">
+  <br>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tajwone17&style=flat-square&color=blue" alt="Profile Views">
@@ -58,7 +60,6 @@
 
 ### 📊 Coding Stats
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tajwone17&theme=midnight-purple&border_radius=5)](https://git.io/streak-stats)
   
   [![Tajwone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajwone17&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/tajwone17)
   
