@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/tajwone17/tajwone17/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
 
 [Crafting Innovative Web Solutions | MERN Stack Developer | Lifelong Learner]  
 
@@ -65,3 +62,8 @@ I enjoy building projects from scratch and exploring emerging web technologies. 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tajwone17&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tajwone17&show_icons=true&theme=radical)  
 ![](https://komarev.com/ghpvc/?username=tajwone17)
+
+<p align="center">
+  <img src="https://github.com/tajwone17/tajwone17/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
