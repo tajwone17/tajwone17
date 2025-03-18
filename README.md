@@ -26,7 +26,7 @@
 
 - 📚 Computer Science Student @ North East University, Bangladesh
 - 💻 Passionate MERN Stack Developer
-- 🏆 Competitive Programmer (Codeforces Specialist)
+- 🏆 Competitive Programmer 
 - 🔭 Currently building **AI-Powered Web Applications**
 - 🌱 Learning **AI Development | Advanced DSA | System Design**
 - 👨💻 All projects available at [My Portfolio](https://github.com/tajwone17)
