@@ -78,11 +78,17 @@
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakaria-chowdhury-tajwone-9a1b08293)
+#### 👨💻 Coding Profiles
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/tajwone17)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/tajwone17/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/tajwone17)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/tajwone_17)
+
+#### 🌐 Social Media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakaria-chowdhury-tajwone-9a1b08293)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:tajwone248tc@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/tajwone.chowdhury)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tajwone_chowdhury17)
 
 ---
 
@@ -91,5 +97,5 @@
 </p>
 
 <p align="center"> 
-  <i>"First, solve the problem. Then, write the code." - John Johnson</i> 💡
+  <i>"Debugging - Being the detective in a crime movie where you're also the murderer." 🕵️♂️🔫</i> 
 </p>
