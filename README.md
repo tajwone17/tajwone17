@@ -69,8 +69,9 @@
 ---
 
 ### 🏆 Achievements
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=tajwone17&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
 ---
 
 ### 📫 Let's Connect!
