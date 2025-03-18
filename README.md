@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/assets/WhatsApp%20Image%202024-07-05%20at%2012.08.30%20AM.jpeg" alt="Coding Banner" width="100%">
   <br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Cat" style="margin: 0 auto">
 </p>
 
 <h1 align="center"> 
