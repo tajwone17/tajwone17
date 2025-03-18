@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/assets/WhatsApp Image 2024-07-05 at 12.08.30 AM.jpeg" alt="Coding Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/assets/WhatsApp%20Image%202024-07-05%20at%2012.08.30%20AM.jpeg" alt="Coding Banner" width="100%">
   <br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Cat" style="margin: 0 auto">
 </p>
@@ -21,12 +21,16 @@
 ---
 
 ### 🚀 About Me
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220" alt="Floating Astronaut" style="margin: 20px 0 0 30px;">
+
 - 📚 Computer Science Student @ North East University, Bangladesh
 - 💻 Passionate MERN Stack Developer
 - 🏆 Competitive Programmer (Codeforces Specialist)
 - 🔭 Currently building **AI-Powered Web Applications**
 - 🌱 Learning **AI Development | Advanced DSA | System Design**
 - 👨💻 All projects available at [My Portfolio](https://github.com/tajwone17)
+
+<br clear="right">
 
 ---
 
@@ -92,6 +96,4 @@
   <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/snake.svg" alt="Snake Game" width="100%">
   <br>
   <i>"Debugging: Being the detective in a crime movie<br>where you're also the murderer."</i> 🕵️♂️🔫
-  <br>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9FpMVta/giphy.gif" width="220" alt="Programming" style="margin: 20px 0">
 </p>
