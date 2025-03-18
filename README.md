@@ -1,4 +1,4 @@
-
+![WhatsApp Image 2024-07-05 at 12 08 30 AM](https://github.com/user-attachments/assets/a767ae95-d30e-4ad8-9b1e-e3fde00e0c4d)
 [Crafting Innovative Web Solutions | MERN Stack Developer | Lifelong Learner]  
 
 # Hi there 👋, Jakaria Chowdhury Tajwone - Passionate Developer & Problem Solver  
