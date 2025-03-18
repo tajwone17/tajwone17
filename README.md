@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/assets/WhatsApp Image 2024-07-05 at 12.08.30 AM.jpeg" alt="Coding Banner" width="100%">
   <br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Cat">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Cat" style="margin: 0 auto">
 </p>
 
 <h1 align="center"> 
@@ -21,29 +21,41 @@
 ---
 
 ### 🚀 About Me
-<p align="right">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Floating Astronaut">
-</p>
-
 - 📚 Computer Science Student @ North East University, Bangladesh
 - 💻 Passionate MERN Stack Developer
 - 🏆 Competitive Programmer (Codeforces Specialist)
-- 🔭 Currently building **Scalable Web Applications**
-- 🌱 Learning **Advanced DSA & System Design**
+- 🔭 Currently building **AI-Powered Web Applications**
+- 🌱 Learning **AI Development | Advanced DSA | System Design**
 - 👨💻 All projects available at [My Portfolio](https://github.com/tajwone17)
 
 ---
 
 ### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,py,java,cpp,aws,docker&theme=dark&perline=8" alt="Tech Stack"> 
-</p>
+
+**Frontend Development**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+**Backend Development**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+**Competitive Programming**  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 ---
 
 ### 📊 Coding Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tajwone17&theme=react-dark&hide_border=true&area=true&custom_title=Code+Flow+Chart">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tajwone17&theme=midnight-purple&border_radius=5)](https://git.io/streak-stats)
   
   [![Tajwone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajwone17&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/tajwone17)
   
@@ -77,9 +89,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/snake.svg" alt="Snake Game">
+  <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/snake.svg" alt="Snake Game" width="100%">
   <br>
-  <i>"I'm not anti-social; I'm just not user friendly."</i> 😼
+  <i>"Debugging: Being the detective in a crime movie<br>where you're also the murderer."</i> 🕵️♂️🔫
   <br>
-  <img src="https://media.giphy.com/media/3o6Zt6KHxJTbKAYP5e/giphy.gif" width="100" alt="Keyboard Cat">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9FpMVta/giphy.gif" width="220" alt="Programming" style="margin: 20px 0">
 </p>
