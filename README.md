@@ -64,6 +64,6 @@ I enjoy building projects from scratch and exploring emerging web technologies. 
 ![](https://komarev.com/ghpvc/?username=tajwone17)
 
 <p align="center">
-  <img src="https://github.com/tajwone17/tajwone17/main/snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/snake.svg" alt="Snake Game" />
 </p>
 
