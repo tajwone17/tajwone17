@@ -1,5 +1,4 @@
 <!-- Banner Section -->
-
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jakaria+Chowdhury+Tajwone;MERN+Stack+Developer;Competitive+Programmer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG">
@@ -10,7 +9,6 @@
   <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/assets/WhatsApp%20Image%202024-07-05%20at%2012.08.30%20AM.jpeg" alt="Coding Banner" width="100%">
   <br>
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tajwone17&style=flat-square&color=blue" alt="Profile Views">
@@ -41,6 +39,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
@@ -69,7 +68,9 @@
 ---
 
 ### 🏆 Achievements
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=tajwone17&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ---
 
