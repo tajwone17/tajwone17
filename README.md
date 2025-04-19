@@ -59,12 +59,14 @@
 
 ---
 
-### 📊 Coding Stats
+### 📊 GitHub Stats
 <div align="center">
   
-  [![Tajwone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajwone17&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/tajwone17)
+  [![Tajwone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajwone17&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/tajwone17)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tajwone17&layout=compact&theme=vision-friendly-dark)](https://github.com/tajwone17)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tajwone17&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/tajwone17)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tajwone17&theme=radical)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -73,16 +75,15 @@
 <div align="center">
 
 #### 👨💻 Coding Profiles  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/tajwone17)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/tajwone17/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/tajwone17)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge)](https://www.codechef.com/users/tajwone_17)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/tajwone17/)  
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/tajwone17)  
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge)](https://www.codechef.com/users/tajwone_17)
 
 #### 🌐 Social Media  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jakaria-chowdhury-tajwone-9a1b08293)  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tajwone248tc@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/tajwone.chowdhury)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/tajwone_chowdhury17)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jakaria-chowdhury-tajwone-9a1b08293)  
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tajwone248tc@gmail.com)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/tajwone.chowdhury)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/tajwone_chowdhury17)
 
 </div>
 
