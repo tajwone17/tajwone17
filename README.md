@@ -53,9 +53,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-**Competitive Programming**  
+**Programming Languages**  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-007396?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
 
