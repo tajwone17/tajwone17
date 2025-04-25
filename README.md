@@ -68,7 +68,7 @@
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tajwone17&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/tajwone17)
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tajwone17&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tajwone17&theme=radical)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -94,5 +94,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tajwone17/tajwone17/main/snake.svg" alt="Snake Game" width="100%">
   <br>
-  <i>"Debugging: Being the detective in a crime movie<br>where you're also the murderer."</i> 🕵️♂️🔫
+  <i>"Debugging: Being the detective in a crime movie<br>where you're also the murderer."</i> 🕵️‍♂️🔫
 </p>
