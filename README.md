@@ -27,7 +27,7 @@
 - 🏆 Competitive Programmer  
 - 🔭 Currently building **AI-Powered Web Applications**  
 - 🌱 Learning **AI Development | Advanced DSA | System Design**  
-- 👨💻 All projects available at [My Portfolio](https://github.com/tajwone17)  
+- 👨💻 All projects available at [My Portfolio](https://portfolio-tajwone.vercel.app/)  
 
 <br clear="right">
 
